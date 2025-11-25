@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Rohan Sharma",
+    "age": 32,
+    "isEmergency": true,
+    "condition": "Road accident - leg fracture",
+    "hospitalId": 1,
+    "photoUri": "",
+    "location": {
+      "latitude": 28.6139,
+      "longitude": 77.209
+    }
+  },
+  {
+    "id": 2,
+    "name": "Anita Verma",
+    "age": 45,
+    "isEmergency": false,
+    "condition": "High blood pressure",
+    "hospitalId": 2,
+    "photoUri": "",
+    "location": {
+      "latitude": 19.076,
+      "longitude": 72.8777
+    }
+  }
+]

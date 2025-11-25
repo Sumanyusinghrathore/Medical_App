@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "City General Hospital", "city": "Delhi" },
+  { "id": 2, "name": "Sunrise Multispeciality", "city": "Mumbai" },
+  { "id": 3, "name": "Green Valley Clinic", "city": "Bangalore" }
+]
